@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = abelard.freddy@gmail.com
+	name = Freddy Abelard
